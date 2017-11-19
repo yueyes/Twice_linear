@@ -1,0 +1,7 @@
+Notes
+
+l.length < n+1 is slower than l.length != n+1
+
+l.push(x) is slower than l[l.length] = x
+
+length of var name will affect the effiency of program
